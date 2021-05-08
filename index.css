@@ -1,0 +1,12 @@
+#Title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+    background-color: aqua;
+}
+#Body{ /* Margin Handling */
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+}
