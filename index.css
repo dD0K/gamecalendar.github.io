@@ -15,4 +15,5 @@
 .externallink{
     background-color: aqua;
     border: 0ch;
+    cursor: pointer;
 }
