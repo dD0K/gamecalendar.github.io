@@ -2,18 +2,19 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 200%;
-    background-color: aqua;
+    text-align: center;
+    /* background-color: aqua; */
 }
-#Body{ /* Margin Handling */
+/* #Body{ Margin Handling
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 1%;
-}
-#aboutcontacttable{
-    margin-top: -4%;
-}
+} */
+
 .externallink{
-    background-color: aqua;
+    background-color: lightblue;
     border: 0ch;
     cursor: pointer;
+    height: 30px;
+    width: 90px;
 }
