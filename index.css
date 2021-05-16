@@ -1,15 +1,12 @@
 #Title{
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 200%;
     text-align: center;
     /* background-color: aqua; */
 }
-/* #Body{ Margin Handling
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 1%;
-} */
+#Body{ 
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 .externallink{
     background-color: lightblue;
@@ -17,4 +14,12 @@
     cursor: pointer;
     height: 30px;
     width: 90px;
+}
+.contentlink{
+    background-color: lightblue;
+    border: 0ch;
+    cursor: pointer;
+    height: 300px;
+    margin: 10%;
+    border-radius: 1ch;
 }
