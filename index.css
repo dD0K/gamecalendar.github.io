@@ -14,7 +14,12 @@
     cursor: pointer;
     height: 30px;
     width: 90px;
+    border-radius: 1ch;
 }
+.externallink:active{
+    background-color:  #33ccff;
+}
+
 .contentlink{
     background-color: lightblue;
     border: 0ch;
@@ -22,4 +27,7 @@
     height: 300px;
     width: 100%;
     border-radius: 1ch;
+}
+.contentlink:active{
+    background-color:  #33ccff;
 }
