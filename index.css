@@ -6,6 +6,10 @@
 }
 #Body{ 
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: linear-gradient(white, lightblue);
 }
 
 .externallink{
@@ -30,4 +34,16 @@
 }
 .contentlink:active{
     background-color:  #33ccff;
+}
+
+#about{
+    margin: 5%;
+    text-align: center;
+}
+#abouttitle{
+    font-size: larger;
+}
+
+#info{
+    margin-top: 5%;
 }
